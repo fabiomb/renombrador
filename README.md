@@ -1,6 +1,8 @@
 # Renombrador de Archivos Secuencial
 
 Programa para Windows que permite renombrar archivos de forma secuencial con múltiples opciones de personalización.
+[![Renombrador]([https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](https://github.com/fabiomb/renombrador/blob/main/docs/renombrador.png)]
+
 
 ## Características
 
