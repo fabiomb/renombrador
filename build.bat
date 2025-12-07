@@ -10,7 +10,8 @@ pip install -r requirements.txt
 
 echo.
 echo Compilando con PyInstaller...
-pyinstaller --onefile --windowed --name="Renombrador" --icon=NONE renombrador.py
+
+python -m PyInstaller --onefile --windowed --clean --noconfirm --name="Renombrador" --icon=NONE renombrador.py
 
 echo.
 echo ===================================

@@ -16,7 +16,7 @@ class RenombradorApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Renombrador de Archivos Secuencial")
-        self.root.geometry("1000x700")
+        self.root.geometry("1200x780")
         
         # Variables
         self.directorio_actual = tk.StringVar()

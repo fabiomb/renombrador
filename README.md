@@ -155,4 +155,5 @@ Proyecto de uso libre.
 
 ## Autor
 
+Fabio Baccaglioni
 Creado con Python + Tkinter para renombrado masivo de archivos.
