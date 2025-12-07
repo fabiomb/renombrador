@@ -2,8 +2,7 @@
 
 Programa para Windows que permite renombrar archivos de forma secuencial con múltiples opciones de personalización.
 
-(https://github.com/fabiomb/renombrador/blob/main/docs/renombrador.png)
-
+![Renombrador](https://github.com/fabiomb/renombrador/blob/main/docs/renombrador.png)
 
 ## Características
 
